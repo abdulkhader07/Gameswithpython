@@ -11,7 +11,7 @@ attempts_list = []
 
 def show_score():
     if not attempts_list:
-        print('There is corrently no high score,'
+        print('There is currently no high score,'
               ' it\'s yours for the taking!')
 
     else:
